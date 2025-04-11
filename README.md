@@ -12,5 +12,5 @@ Tales como
 - Análisis de sentimientos
 - Generar resúmenes de textos
 - Traducir código a diferentes lenguajes de programación
-- Macros de Excel en VBA o TypeScript 
+- Macros de Excel en VBA o TypeScript (Futuro cercano)
 - Etc.....
