@@ -1,5 +1,7 @@
 ##### IRIS STARTUP LAB
-### Functions to get summary and entities in Tableau
+#### Fernando Dorantes Nieto
+#### Functions to get summary and entities in Tableau
+
 from textblob import TextBlob
 import spacy
 #import en_core_web_sm
